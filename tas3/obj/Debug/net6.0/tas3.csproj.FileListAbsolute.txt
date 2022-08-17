@@ -1,0 +1,15 @@
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\bin\Debug\net6.0\tas3.exe
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\bin\Debug\net6.0\tas3.deps.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\bin\Debug\net6.0\tas3.runtimeconfig.json
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\bin\Debug\net6.0\tas3.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\bin\Debug\net6.0\tas3.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\tas3.csproj.AssemblyReference.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\tas3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\tas3.AssemblyInfoInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\tas3.AssemblyInfo.cs
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\tas3.csproj.CoreCompileInputs.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\tas3.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\refint\tas3.dll
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\tas3.pdb
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\tas3.genruntimeconfig.cache
+C:\Users\nurul\OneDrive\Рабочий стол\geekBrains\semin7\tas3\obj\Debug\net6.0\ref\tas3.dll
